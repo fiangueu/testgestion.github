@@ -1,0 +1,10 @@
+comment lancer le devoir
+1-tu dezipe le fichier
+2-tu mets le devoir dans ton dossier laravel2
+3- te rassure que le chemin dans la ligne de commande est belle et bien celle du devoir se terminant par "projet>"
+4-tu creer la base de donnee dans phpmyadmin(wampserver) avec pour nom:projet
+5-tu lance la commande :"php artisan migrate"
+6-puis tu execute la ligne de commande:"php -S localhost:8000 -t public"
+7-je pense que le devoir est ouvert.
+7-il reste seulement ma biere.si c'est bon.(:
+
